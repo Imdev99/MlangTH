@@ -1,1 +1,367 @@
+language.name=ภาษาไทย
+language.region=ประเทศไทย
+language.code=th_TH
 
+# --- [1] ระบบและหน้าเมนู (GUI) ---
+menu.play=เล่น
+menu.options=การตั้งค่า
+options.difficulty.peaceful=ง่ายมาก
+options.renderDistance.chunks=%s Chunks
+container.inventory=ช่องเก็บของ
+container.crafting=การคราฟต์
+container.furnace=เตาเผา
+container.enchant=โต๊ะอาคม
+container.repair=ซ่อมแซมและตั้งชื่อ
+
+# --- [2] หมวดเครื่องมือ (แปลไทยทั้งหมดตามสั่ง) ---
+item.wooden_pickaxe.name=พลั่วขุดไม้
+item.stone_pickaxe.name=พลั่วขุดหิน
+item.iron_pickaxe.name=พลั่วขุดเหล็ก
+item.gold_pickaxe.name=พลั่วขุดทอง
+item.diamond_pickaxe.name=พลั่วขุดเพชร
+item.netherite_pickaxe.name=พลั่วขุด Netherite
+
+item.wooden_shovel.name=พลั่วไม้
+item.stone_shovel.name=พลั่วหิน
+item.iron_shovel.name=พลั่วเหล็ก
+item.gold_shovel.name=พลั่วทอง
+item.diamond_shovel.name=พลั่วเพชร
+item.netherite_shovel.name=พลั่ว Netherite
+
+item.wooden_hoe.name=จอบไม้
+item.stone_hoe.name=จอบหิน
+item.iron_hoe.name=จอบเหล็ก
+item.gold_hoe.name=จอบทอง
+item.diamond_hoe.name=จอบเพชร
+item.netherite_hoe.name=จอบ Netherite
+
+item.iron_axe.name=ขวานเหล็ก
+item.netherite_axe.name=ขวาน Netherite
+item.wooden_sword.name=ดาบไม้
+item.stone_sword.name=ดาบหิน
+item.iron_sword.name=ดาบเหล็ก
+item.diamond_sword.name=ดาบเพชร
+item.netherite_sword.name=ดาบ Netherite
+
+# --- [3] ไอเทมพิเศษและคำแปลเฉพาะตัว ---
+item.stick.name=แท่งไม้
+item.elytra.name=เครื่องร่อน
+item.phantom_membrane.name=เยื่อหุ้ม Phantom
+item.ender_pearl.name=ไข่มุกเอนเดอร์
+item.totem_of_undying.name=โทเท็มแห่งความอมตะ
+item.ghast_tear.name=น้ำตาปีศาจ Ghast
+item.heart_of_the_sea.name=ใจกลางแห่งมหาสมุทร
+item.nautilus_shell.name=เปลือกหอย Nautilus
+tile.command_block.name=บล็อกคำสั่ง
+tile.structure_block.name=บล็อกโครงสร้าง
+
+# --- [4] บล็อกธรรมชาติและแร่ (ไทยแท้) ---
+tile.stone.name=หิน
+tile.dirt.name=ดิน
+tile.grass.name=บล็อกหญ้า
+tile.sand.name=ทราย
+tile.gravel.name=กรวด
+tile.log.name=ไม้ซุง
+tile.leaves.name=ใบไม้
+tile.glass.name=กระจก
+tile.planks.name=ไม้แปรรูป
+tile.gold_ore.name=แร่ทองคำ
+tile.iron_ore.name=แร่เหล็ก
+tile.coal_ore.name=แร่ถ่านหิน
+tile.diamond_ore.name=แร่เพชร
+item.apple.name=แอปเปิล
+item.coal.name=ถ่านหิน
+item.iron_ingot.name=แท่งเหล็ก
+item.gold_ingot.name=แท่งทอง
+
+# --- [5] คำทับศัพท์ที่ให้คงเป็นภาษาอังกฤษ ---
+item.nether_star.name=Nether Star
+item.netherite_ingot.name=Netherite Ingot
+item.netherite_scrap.name=Netherite Scrap
+item.blaze_rod.name=Blaze Rod
+item.blaze_powder.name=Blaze Powder
+tile.obsidian.name=Obsidian
+tile.crying_obsidian.name=Crying Obsidian
+tile.bedrock.name=Bedrock
+tile.deepslate.name=Deepslate
+tile.barrier.name=Barrier
+tile.jigsaw.name=Jigsaw Block
+
+# --- [6] มอนสเตอร์ (ภาษาอังกฤษ) ---
+entity.creeper.name=Creeper
+entity.enderman.name=Enderman
+entity.warden.name=Warden
+entity.shulker.name=Shulker
+entity.ghast.name=Ghast
+entity.blaze.name=Blaze
+
+# --- [7] ข้อความแจ้งเตือน (ไทยเกรียนๆ) ---
+death.attack.generic=%s ขิตไปละ
+death.attack.player=%s โดน %s ตบเกรียนแตก
+multiplayer.player.joined=%s ได้เข้าร่วมการเดินทาง
+tile.bed.noSleep=คุณนอนได้แค่ตอนกลางคืนหรือช่วงพายุเท่านั้น
+# --- [8] หมวดบล็อกก่อสร้างและบล็อกธรรมชาติ ---
+tile.stone.granite.name=หินแกรนิต
+tile.stone.graniteSmooth.name=หินแกรนิตขัดเงา
+tile.stone.diorite.name=หินไดโอไรต์
+tile.stone.dioriteSmooth.name=หินไดโอไรต์ขัดเงา
+tile.stone.andesite.name=หินแอนดีไซต์
+tile.stone.andesiteSmooth.name=หินแอนดีไซต์ขัดเงา
+tile.cobblestone.name=หินหยาบ
+tile.stonebrick.name=อิฐหิน
+tile.mossy_stonebrick.name=อิฐหินมีตะไคร่
+tile.cracked_stonebrick.name=อิฐหินร้าว
+tile.chiseled_stonebrick.name=อิฐหินสลัก
+tile.brick.name=อิฐ
+tile.sandstone.name=หินทราย
+tile.chiseled_sandstone.name=หินทรายสลัก
+tile.smooth_sandstone.name=หินทรายเรียบ
+tile.red_sandstone.name=หินทรายแดง
+tile.mossy_cobblestone.name=หินหยาบมีตะไคร่
+tile.obsidian.name=Obsidian
+tile.crying_obsidian.name=Crying Obsidian
+tile.bedrock.name=Bedrock
+tile.deepslate.name=Deepslate
+tile.cobbled_deepslate.name=หินดีปสเลตหยาบ
+tile.polished_deepslate.name=หินดีปสเลตขัดเงา
+tile.deepslate_bricks.name=อิฐหินดีปสเลต
+tile.deepslate_tiles.name=กระเบื้องดีปสเลต
+tile.chiseled_deepslate.name=หินดีปสเลตสลัก
+tile.basalt.name=Basalt
+tile.polished_basalt.name=Basalt ขัดเงา
+tile.blackstone.name=Blackstone
+tile.polished_blackstone.name=Blackstone ขัดเงา
+tile.polished_blackstone_bricks.name=อิฐ Blackstone ขัดเงา
+tile.chiseled_polished_blackstone.name=Blackstone ขัดเงาสลัก
+tile.magma.name=บล็อกลาวา (Magma)
+tile.soul_sand.name=ทรายวิญญาณ
+tile.soul_soil.name=ดินวิญญาณ
+tile.glowstone.name=หินเรืองแสง
+tile.sea_lantern.name=โคมไฟทะเล
+tile.shroomlight.name=เห็ดเรืองแสง
+tile.honey_block.name=บล็อกน้ำผึ้ง
+tile.slime.name=บล็อกสไลม์
+tile.snow.name=หิมะ
+tile.ice.name=น้ำแข็ง
+tile.packed_ice.name=น้ำแข็งอัด
+tile.blue_ice.name=น้ำแข็งสีน้ำเงิน
+# --- [9] หมวดสัตว์และสิ่งมีชีวิต (แปลไทยเท่าที่ทำได้) ---
+entity.chicken.name=ไก่
+entity.cow.name=วัว
+entity.pig.name=หมู
+entity.sheep.name=แกะ
+entity.wolf.name=หมาป่า
+entity.ocelot.name=แมวป่า
+entity.cat.name=แมว
+entity.horse.name=ม้า
+entity.donkey.name=ลา
+entity.mule.name=ล่อ
+entity.skeleton_horse.name=ม้าโครงกระดูก
+entity.zombie_horse.name=ม้าซอมบี้
+entity.llama.name=ลามะ
+entity.trader_llama.name=ลามะของพ่อค้า
+entity.fox.name=สุนัขจิ้งจอก
+entity.panda.name=แพนด้า
+entity.polar_bear.name=หมีขั้วโลก
+entity.rabbit.name=กระต่าย
+entity.bee.name=ผึ้ง
+entity.turtle.name=เต่าทะเล
+entity.frog.name=กบ
+entity.tadpole.name=ลูกอ๊อด
+entity.goat.name=แพะ
+entity.strider.name=Strider
+entity.axolotl.name=Axolotl
+entity.parrot.name=นกแก้ว
+entity.squid.name=หมึก
+entity.glow_squid.name=หมึกเรืองแสง
+entity.dolphin.name=โลมา
+entity.tropical_fish.name=ปลาเขตร้อน
+entity.pufferfish.name=ปลาปักเป้า
+entity.salmon.name=ปลาแซลมอน
+entity.cod.name=ปลาคอด
+entity.villager.name=ชาวบ้าน
+entity.wandering_trader.name=พ่อค้าเร่
+entity.iron_golem.name=หุ่นยนต์เหล็ก (Iron Golem)
+entity.snow_golem.name=หุ่นยนต์หิมะ
+
+# --- มอนสเตอร์ที่คงชื่อภาษาอังกฤษ (เพราะเป็นชื่อเฉพาะ) ---
+entity.creeper.name=Creeper
+entity.enderman.name=Enderman
+entity.zombie.name=Zombie
+entity.skeleton.name=Skeleton
+entity.spider.name=Spider
+entity.cave_spider.name=Spider ในถ้ำ
+entity.ghast.name=Ghast
+entity.blaze.name=Blaze
+entity.endermite.name=Endermite
+entity.silverfish.name=Silverfish
+entity.shulker.name=Shulker
+entity.warden.name=Warden
+entity.wither.name=Wither
+entity.ender_dragon.name=Ender Dragon
+entity.piglin.name=Piglin
+entity.hoglin.name=Hoglin
+entity.zoglin.name=Zoglin
+entity.evocation_illager.name=Evoker
+entity.vindicator.name=Vindicator
+entity.pillager.name=Pillager
+entity.ravager.name=Ravager
+entity.vex.name=Vex
+# --- [10] บล็อกพิเศษและบล็อกทางเทคนิค (Hidden & Special Blocks) ---
+tile.invisible_bedrock.name=Invisible Bedrock (เบดร็อคล่องหน)
+tile.end_portal.name=ประตูมิติ End
+tile.end_gateway.name=ช่องทางผ่าน End
+tile.portal.name=ประตูมิติ Nether
+tile.allow.name=บล็อกอนุญาต (Allow)
+tile.deny.name=บล็อกปฏิเสธ (Deny)
+tile.border_block.name=บล็อกแนวเขต (Border)
+tile.barrier.name=Barrier
+tile.light_block.name=Light Block (บล็อกแสง)
+tile.structure_block.name=บล็อกโครงสร้าง
+tile.structure_void.name=โครงสร้างว่างเปล่า (Structure Void)
+tile.jigsaw.name=Jigsaw Block
+tile.command_block.name=บล็อกคำสั่ง
+tile.chain_command_block.name=บล็อกคำสั่งแบบลูกโซ่
+tile.repeating_command_block.name=บล็อกคำสั่งแบบทำซ้ำ
+tile.camera.name=กล้องถ่ายรูป (รุ่นเก่า)
+tile.info_update.name=บล็อกอัปเดตข้อมูล (Update)
+tile.info_update2.name=บล็อกอัปเดตข้อมูล 2
+tile.moving_block.name=Moving Block (บล็อกกำลังเคลื่อนที่)
+tile.piston_arm_collision.name=ส่วนหัวลูกสูบ
+tile.sticky_piston_arm_collision.name=ส่วนหัวลูกสูบเหนียว
+tile.tripwire.name=กับดักสายเบ็ด
+tile.bubble_column.name=ลำฟองอากาศ
+
+# --- [11] บล็อกก่อสร้างและบล็อกธรรมชาติเพิ่มเติม (เกือบทั้งหมด) ---
+tile.stone.name=หิน
+tile.granite.name=หินแกรนิต
+tile.polished_granite.name=หินแกรนิตขัดเงา
+tile.diorite.name=หินไดโอไรต์
+tile.polished_diorite.name=หินไดโอไรต์ขัดเงา
+tile.andesite.name=หินแอนดีไซต์
+tile.polished_andesite.name=หินแอนดีไซต์ขัดเงา
+tile.deepslate.name=Deepslate
+tile.cobbled_deepslate.name=หิน Deepslate หยาบ
+tile.polished_deepslate.name=หิน Deepslate ขัดเงา
+tile.deepslate_bricks.name=อิฐหิน Deepslate
+tile.deepslate_tiles.name=กระเบื้อง Deepslate
+tile.chiseled_deepslate.name=หิน Deepslate สลัก
+tile.reinforced_deepslate.name=หิน Deepslate เสริมพลัง
+tile.calcite.name=หินแคลไซต์
+tile.tuff.name=หินทัฟฟ์
+tile.dripstone_block.name=บล็อกหินหยด
+tile.pointed_dripstone.name=หินงอกหินย้อย
+tile.obsidian.name=Obsidian
+tile.crying_obsidian.name=Crying Obsidian
+tile.bedrock.name=Bedrock
+tile.crying_obsidian.name=Crying Obsidian
+tile.glowstone.name=หินเรืองแสง
+tile.magma.name=บล็อกลาวา (Magma)
+tile.soul_sand.name=ทรายวิญญาณ
+tile.soul_soil.name=ดินวิญญาณ
+tile.basalt.name=Basalt
+tile.polished_basalt.name=Basalt ขัดเงา
+tile.smooth_basalt.name=Basalt ผิวเรียบ
+tile.blackstone.name=Blackstone
+tile.polished_blackstone.name=Blackstone ขัดเงา
+tile.polished_blackstone_bricks.name=อิฐ Blackstone ขัดเงา
+tile.gilded_blackstone.name=Blackstone ผสมทอง
+
+# --- [12] บล็อกไม้และพืชพรรณ ---
+tile.log.oak.name=ไม้ซุงโอ๊ก
+tile.log.spruce.name=ไม้ซุงสปรูซ
+tile.log.birch.name=ไม้ซุงเบิร์ช
+tile.log.jungle.name=ไม้ซุงจังเกิล
+tile.log.acacia.name=ไม้ซุงอะคาเซีย
+tile.log.dark_oak.name=ไม้ซุงดาร์กโอ๊ก
+tile.mangrove_log.name=ไม้ซุงป่าชายเลน
+tile.cherry_log.name=ไม้ซุงเชอร์รี่
+tile.crimson_stem.name=ลำต้นคริมสัน
+tile.warped_stem.name=ลำต้นวอร์ปต์
+tile.bamboo_block.name=บล็อกไม้ไผ่
+# --- [13] บล็อกสีและคอนกรีต (แปลไทยตามสี) ---
+tile.concrete.white.name=คอนกรีตขาว
+tile.concrete.orange.name=คอนกรีตส้ม
+tile.concrete.magenta.name=คอนกรีตแดงม่วง
+tile.concrete.light_blue.name=คอนกรีตฟ้าอ่อน
+tile.concrete.yellow.name=คอนกรีตเหลือง
+tile.concrete.lime.name=คอนกรีตเขียวมะนาว
+tile.concrete.pink.name=คอนกรีตชมพู
+tile.concrete.gray.name=คอนกรีตเทา
+tile.concrete.silver.name=คอนกรีตเทาอ่อน
+tile.concrete.cyan.name=คอนกรีตไซแอน
+tile.concrete.purple.name=คอนกรีตม่วง
+tile.concrete.blue.name=คอนกรีตน้ำเงิน
+tile.concrete.brown.name=คอนกรีตน้ำตาล
+tile.concrete.green.name=คอนกรีตเขียว
+tile.concrete.red.name=คอนกรีตแดง
+tile.concrete.black.name=คอนกรีตดำ
+
+tile.stained_hardened_clay.white.name=Terracotta ขาว
+tile.stained_hardened_clay.orange.name=Terracotta ส้ม
+tile.stained_hardened_clay.red.name=Terracotta แดง
+
+# --- [14] ป้ายและของตกแต่ง (Signs & Props) ---
+tile.standing_sign.name=ป้ายไม้
+tile.wall_sign.name=ป้ายติดผนัง
+tile.oak_hanging_sign.name=ป้ายแขวนโอ๊ก
+tile.spruce_hanging_sign.name=ป้ายแขวนสปรูซ
+tile.birch_hanging_sign.name=ป้ายแขวนเบิร์ช
+tile.jungle_hanging_sign.name=ป้ายแขวนจังเกิล
+tile.acacia_hanging_sign.name=ป้ายแขวนอะคาเซีย
+tile.dark_oak_hanging_sign.name=ป้ายแขวนดาร์กโอ๊ก
+tile.mangrove_hanging_sign.name=ป้ายแขวนป่าชายเลน
+tile.cherry_hanging_sign.name=ป้ายแขวนเชอร์รี่
+
+tile.scaffolding.name=นั่งร้าน
+tile.flower_pot.name=กระถางดอกไม้
+tile.lantern.name=ตะเกียง
+tile.soul_lantern.name=ตะเกียงวิญญาณ
+tile.campfire.name=กองไฟ
+tile.soul_campfire.name=กองไฟวิญญาัน
+# --- บล็อกล่องหนและบล็อกแสง (ครบทุกระดับ) ---
+tile.barrier.name=บล็อกล่องหน
+tile.light_block.0.name=บล็อกแสง (ระดับ 0)
+tile.light_block.1.name=บล็อกแสง (ระดับ 1)
+tile.light_block.2.name=บล็อกแสง (ระดับ 2)
+tile.light_block.3.name=บล็อกแสง (ระดับ 3)
+tile.light_block.4.name=บล็อกแสง (ระดับ 4)
+tile.light_block.5.name=บล็อกแสง (ระดับ 5)
+tile.light_block.6.name=บล็อกแสง (ระดับ 6)
+tile.light_block.7.name=บล็อกแสง (ระดับ 7)
+tile.light_block.8.name=บล็อกแสง (ระดับ 8)
+tile.light_block.9.name=บล็อกแสง (ระดับ 9)
+tile.light_block.10.name=บล็อกแสง (ระดับ 10)
+tile.light_block.11.name=บล็อกแสง (ระดับ 11)
+tile.light_block.12.name=บล็อกแสง (ระดับ 12)
+tile.light_block.13.name=บล็อกแสง (ระดับ 13)
+tile.light_block.14.name=บล็อกแสง (ระดับ 14)
+tile.light_block.15.name=บล็อกแสง (ระดับ 15)
+tile.structure_void.name=โครงสร้างว่างเปล่า
+
+# --- บล็อกสายคำสั่งและการควบคุม (ตัดวงเล็บออกแล้ว) ---
+tile.command_block.name=บล็อกคำสั่ง
+tile.chain_command_block.name=บล็อกคำสั่งแบบลูกโซ่
+tile.repeating_command_block.name=บล็อกคำสั่งแบบทำซ้ำ
+tile.structure_block.name=บล็อกโครงสร้าง
+tile.jigsaw.name=บล็อกจิ๊กซอว์
+
+# --- บล็อกควบคุมเขตและสิทธิ์ ---
+tile.allow.name=บล็อกอนุญาต
+tile.deny.name=บล็อกปฏิเสธ
+tile.border_block.name=บล็อกแนวเขต
+
+# --- บล็อกที่ปกติวางไม่ได้หรือซ่อนในมิติ ---
+tile.end_portal_frame.name=โครงประตูมิติ End
+tile.end_portal.name=ช่องประตูมิติ End
+tile.end_gateway.name=ช่องวาร์ปมิติ End
+tile.portal.name=ประตูมิติ Nether
+tile.dragon_egg.name=ไข่มังกร
+tile.conduit.name=Conduit
+tile.beacon.name=Beacon
+
+# --- บล็อกทางเทคนิค ---
+tile.moving_block.name=บล็อกกำลังเคลื่อนที่
+tile.info_update.name=บล็อกอัปเดตข้อมูล
+tile.info_update2.name=บล็อกอัปเดตข้อมูล 2
+tile.reserved6.name=บล็อกสำรอง
