@@ -1,4 +1,4 @@
-# MyThaiFont - Minecraft Resource Pack 🇹🇭
+# MlangTH (MLTH) - Minecraft Resource Pack 🇹🇭
 
 Resource Pack ภาษาไทยสำหรับ Minecraft Bedrock Edition (PE) ที่เน้นความสะอาดตาและการแปลที่ถูกต้องสำหรับสาย Technical และ Builder พัฒนาโดย **Judo_2310**
 
