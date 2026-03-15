@@ -1,6 +1,6 @@
 # MlangTH (MLTH) - Minecraft Resource Pack 🇹🇭
 
-Resource Pack ภาษาไทยสำหรับ Minecraft Bedrock Edition (PE) ที่เน้นความสะอาดตาและการแปลที่ถูกต้องสำหรับสาย Technical และ Builder พัฒนาโดย **Judo_2310**
+Resource Pack ภาษาไทยสำหรับ Minecraft Bedrock Edition (PE) ที่เน้นความสะอาดตาและการแปลที่ถูกต้องสำหรับสาย Technical และ Builder พัฒนาโดย **imdev99**
 
 ## 🌟 จุดเด่นของโปรเจกต์ (Features)
 - **แปลชื่อบล็อกพิเศษ:** เปลี่ยนชื่อบล็อกที่ระบบเดิมแปลไม่ครบ เช่น 
@@ -13,15 +13,26 @@ Resource Pack ภาษาไทยสำหรับ Minecraft Bedrock Edition 
 ## 📝 เครดิตและลิขสิทธิ์ (Credits)
 
 ### พัฒนาโดย (Developer)
-- **Judo_2310** (Project Lead, Translation, and Configuration)
+- **imdev99** (Project Lead, Translation, and Configuration)
 
 ### ฟอนต์ (Font Asset)
 - **Sarabun (TH Sarabun New)**
     - ออกแบบโดย: คุณศุภกิจ เฉลิมลาภ
     - สัญญาอนุญาต: [Open Font License (OFL)](https://scripts.sil.org/OFL)
     - เป็นฟอนต์มาตรฐานที่ใช้ในโครงการฟอนต์แห่งชาติของประเทศไทย
+## 📥 วิธีติดตั้ง (Installation)
+
+1. เข้าไปที่ส่วน **Releases** ของ GitHub นี้
+2. ดาวน์โหลดไฟล์ `MyThaiFont.mcpack`
+3. กดเปิดไฟล์ที่ดาวน์โหลดมาด้วยเกม **Minecraft**
+4. ตัวเกมจะทำการนำเข้า (Import) โดยอัตโนมัติ
+5. ไปที่ **Settings > Global Resources** และกดเปิดใช้งาน (Activate) แพ็กนี้
+
+---
+*หมายเหตุ: พัฒนาและทดสอบบน Minecraft Bedrock Edition (PE) เวอร์ชั่น 1.20 ขึ้นไป*
+
 
 ### ข้อมูลทางเทคนิค (Technical Support)
 - เรียบเรียงโครงสร้างไฟล์ `.lang` และ `.json` ร่วมกับ **Gemini AI**
 ---
-© 2026 Judo_2310. Created with passion for the Minecraft Thailand community.
+© 2026 imdev99. Created with passion for the Minecraft Thailand community.
