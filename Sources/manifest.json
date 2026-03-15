@@ -1,1 +1,20 @@
-
+{
+  "format_version": 2,
+  "header": {
+    "description": "Resource Pack ภาษาไทย โดย imdev99(Judo_2310)
+Discord : https://discord.gg/j7jDcXMGAU",
+    "name": "MlangTH",
+    "uuid": "6f1e0a2b-2d3e-4f5a-6b7c-8d9e0f1a2b3c",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "description": "Resource Pack ภาษาไทย โดย imdev99(Judo_2310)
+Discord : https://discord.gg/j7jDcXMGAU",
+      "type": "resources",
+      "uuid": "a1b2c3d4-e5f6-7a8b-9c0d-1e2f3a4b5c6d",
+      "version": [1, 0, 0]
+    }
+  ]
+}
