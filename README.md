@@ -23,7 +23,7 @@ Resource Pack ภาษาไทยสำหรับ Minecraft Bedrock Edition 
 ## 📥 วิธีติดตั้ง (Installation)
 
 1. เข้าไปที่ส่วน **Releases** ของ GitHub นี้
-2. ดาวน์โหลดไฟล์ `MyThaiFont.mcpack`
+2. ดาวน์โหลดไฟล์ `MlangTH.mcpack`
 3. กดเปิดไฟล์ที่ดาวน์โหลดมาด้วยเกม **Minecraft**
 4. ตัวเกมจะทำการนำเข้า (Import) โดยอัตโนมัติ
 5. ไปที่ **Settings > Global Resources** และกดเปิดใช้งาน (Activate) แพ็กนี้
