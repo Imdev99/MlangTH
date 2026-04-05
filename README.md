@@ -1,8 +1,8 @@
-# MlangTH (MLTH) - Minecraft Resource Pack 🇹🇭
+# MlangTH - Minecraft Resource Pack 🇹🇭
 
 Resource Pack ภาษาไทยสำหรับ Minecraft Bedrock Edition (PE) ที่เน้นความสะอาดตาและการแปลที่ถูกต้องสำหรับสาย Technical และ Builder พัฒนาโดย **imdev99**
 
-### ⚠️คำเตือน⚠️ รุ่นนี้สามารถใช้ในเวอร์ชั่นที่ต่ำกว่า 1.17 เท่านั้น หรือถ้าหากคุณใช้ไม่ได้โปรดแจ้งข้อผิดพลาดมาทาง Discord ของเรา
+### ⚠️คำเตือน⚠️ อยู่ในระหว่างทดสอบ
 Discord : https://discord.gg/j7jDcXMGAU
 
 ## 🌟 จุดเด่นของโปรเจกต์ (Features)
