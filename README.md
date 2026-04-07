@@ -21,7 +21,7 @@ Discord : https://discord.gg/j7jDcXMGAU
 ### ฟอนต์ (Font Asset)
 - **Sarabun (TH Sarabun New)**
     - ออกแบบโดย: คุณศุภกิจ เฉลิมลาภ
-    - สัญญาอนุญาต: [Open Font License (OFL)](https://scripts.sil.org/OFL)
+    - สัญญาอนุญาต: [Open Font License (OFL)](https://openfontlicense.org/documents/OFL.txt)
     - เป็นฟอนต์มาตรฐานที่ใช้ในโครงการฟอนต์แห่งชาติของประเทศไทย
 ## 📥 วิธีติดตั้ง (Installation)
 
